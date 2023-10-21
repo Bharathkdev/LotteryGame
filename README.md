@@ -8,10 +8,10 @@ Developed a screen to add a lottery pick, display the selected lottery picks and
 ```
 ## Developed a second screen for Number Selection with the following fields:
 ```
-   1. Selected numbers portion
-   2. 1 to 42 numbers grid
-   3. Play Numbers button 
-   4. A back button
+1. Selected numbers portion
+2. 1 to 42 numbers grid
+3. Play Numbers button 
+4. A back button
 ```
 
 ## Add Play screen includes the following features:
