@@ -32,7 +32,7 @@ Developed a screen to add a lottery pick, display the selected lottery picks and
 5. A number belongs to its respective top circle which means if a user unselects a number it will be removed from the respective top circle and if the user selects another number the same circle will be filled again(priority is from left to right if multiple numbers are unselected and selecting numbers again).
 6. If the user tries to pick 5 numbers which is the same sequence of numbers selected before then an alert will be shown like Same pick already selected. Please choose another sequence.
 7. Tapping on the Play Numbers with a unique pick should take the user to the Add Play screen and update the global state.
-Back button should take the user to the Add Play screen.
+8. Back button should take the user to the Add Play screen.
 ```
 
 ## Testing approach:
