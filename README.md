@@ -1,6 +1,6 @@
 ## Development:
 
-Created a lottery picker react native Expo app along with Add Play, Play Numbers and  Purchase feature.
+Created a lottery picker react native Expo app along with Add Play, Play Numbers and  Purchase feature, also with awesome UI and animations.
 
 ### App name: ACME Lottery Picker
 ```
