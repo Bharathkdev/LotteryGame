@@ -2,9 +2,7 @@
 
 Created a lottery picker react native Expo app along with Add Play, Play Numbers and  Purchase feature, also with awesome UI and animations.
 
-![lottery_game_app_1](https://github.com/Bharathkdev/LotteryGame/assets/46343966/e4eb951e-5871-4802-a1b8-42178737b565)
-
-![lottery_game_app_2](https://github.com/Bharathkdev/LotteryGame/assets/46343966/65b19179-6d42-4d90-ba66-c207e69a3dc7)
+![lottery_game_app_1](https://github.com/Bharathkdev/LotteryGame/assets/46343966/e4eb951e-5871-4802-a1b8-42178737b565) <img width="325" alt="lottery_game_app_2" src="https://github.com/Bharathkdev/LotteryGame/assets/46343966/3a01f24d-743e-4df1-99b5-902891f4d91b">
 
 ### App name: ACME Lottery Picker
 ```
